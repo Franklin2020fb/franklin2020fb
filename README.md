@@ -23,7 +23,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Franklin2020fb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 moment of laughter
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
