@@ -1,7 +1,7 @@
-# 💫 About Me:
+
 # 💫 About Me:
 <br>Soy un programador en desarrollo y acepto nuevos retos <br>
-
+![Mi imagen de perfil](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/lenguaje-programacion-1859691.jpg?tf=3840x)
 
 ## 🌐 Socials:
 [![Facebook Icon](https://img.icons8.com/nolan/64/1A6DFF/C822FF/facebook-new.png)](https://www.facebook.com/FrankyMarce1012?mibextid=ZbWKwL) [![WhatsApp Icon](https://img.icons8.com/nolan/64/1A6DFF/C822FF/whatsapp.png)](https://wa.me/+573209074295)[![Correo electrónico Icon](https://img.icons8.com/nolan/64/1A6DFF/C822FF/gmail-new.png)](mailto:faserrano22@misena.edu.co)
