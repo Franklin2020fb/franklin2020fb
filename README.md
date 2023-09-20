@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Franklin2020fb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Mi imagen de perfil](https://be-up.es/wp-content/uploads/2022/07/frases-motivacion-trabajo-2-1024x341.png)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Franklin2020fb&limit=5&theme=dark&combine_all_yearly_contributions=true)
