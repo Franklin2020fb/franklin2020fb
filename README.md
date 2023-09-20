@@ -1,13 +1,14 @@
-
 # 💫 About Me:
-<br>Soy un programador en desarrollo y acepto nuevos retos <br>
+<br>Soy un programador en desarrollo y acepto nuevos retos👍😁 <br>
+
 ![Mi imagen de perfil](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/lenguaje-programacion-1859691.jpg?tf=3840x)
+
 
 ## 🌐 Socials:
 [![Facebook Icon](https://img.icons8.com/nolan/64/1A6DFF/C822FF/facebook-new.png)](https://www.facebook.com/FrankyMarce1012?mibextid=ZbWKwL) [![WhatsApp Icon](https://img.icons8.com/nolan/64/1A6DFF/C822FF/whatsapp.png)](https://wa.me/+573209074295)[![Correo electrónico Icon](https://img.icons8.com/nolan/64/1A6DFF/C822FF/gmail-new.png)](mailto:faserrano22@misena.edu.co)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
+![HTML5](https://img.icons8.com/nolan/64/1A6DFF/C822FF/html-5.png) ![CSS3](https://img.icons8.com/nolan/64/1A6DFF/C822FF/css3.png) ![JavaScript](https://img.icons8.com/nolan/64/1A6DFF/C822FF/java-coffee-cup-logo.png) ![PHP](https://img.icons8.com/nolan/64/1A6DFF/C822FF/php-logo.png) ![MySQL](https://img.icons8.com/nolan/64/1A6DFF/C822FF/my-sql.png) ![GitHub](https://img.icons8.com/nolan/64/1A6DFF/C822FF/github.png) ![NodeJS](https://img.icons8.com/nolan/64/1A6DFF/C822FF/node-js.png) ![Apache](https://img.icons8.com/nolan/64/1A6DFF/C822FF/thin-client.png)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Franklin2020fb&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Franklin2020fb&theme=highcontrast&hide_border=false)<br/>
